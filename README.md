@@ -1,1 +1,1 @@
-Exercise using a for loop.
+Exercises using a for loop.
