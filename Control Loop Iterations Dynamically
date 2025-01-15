@@ -1,0 +1,22 @@
+/*
+5.	Control loop iterations dynamically
+Modify the code to read a value for COUNT from the user and use it to control the number of iterations of the loop.
+*/
+
+
+#include <iostream>
+
+int main(){
+    unsigned int count;
+    std::cout << "Please enter a value for count" << std::endl;
+    std::cin >> count;
+
+    for (size_t i{0}; i < count; i++){
+        std::cout << "I love chocolate!" << std::endl;
+    }
+    
+
+    
+
+    return 0;
+}
