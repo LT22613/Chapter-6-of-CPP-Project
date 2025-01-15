@@ -1,1 +1,1 @@
-Exercises using a for loop.
+Chat-GPT Generated Exercise on For Loops
